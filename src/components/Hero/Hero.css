@@ -1,0 +1,15 @@
+.hero {
+    min-height: 80vh;
+    background-color:#0a001c;
+    color: white;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    padding: 5rem;
+}
+
+.name {
+    font-size: 6rem;
+    font-weight: 200;
+}
