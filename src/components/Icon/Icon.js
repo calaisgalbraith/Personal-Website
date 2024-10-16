@@ -13,7 +13,7 @@ function Icon({ icon }) {
   return (
     <>
         <div className="icon">
-          <a href={icon.url} target="_blank">
+          <a href={icon.url} target="_blank" rel="noreferrer">
             {displayMap[icon.type]}
           </a>
           </div>
