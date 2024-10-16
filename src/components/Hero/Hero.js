@@ -1,18 +1,17 @@
 import './Hero.css';
 import IconList from '../IconList/IconList';
+import { IoIosArrowDown } from "react-icons/io";
 
 const icons = [
     {
         "title": "LinkedIn",
-        "image": "LinkedIn"
+        "type": "linkedIn",
+        "url": "https://www.linkedin.com/in/calaisgalbraith/"
     },
     {
         "title": "Github",
-        "image": "Github"
-    },
-    {
-        "title": "Email",
-        "image": "email"
+        "type": "github",
+        "url": "https://github.com/calaisgalbraith"
     }
 ]
 
@@ -21,9 +20,14 @@ function Hero() {
     <header className='hero' >
         <div className='name'>Calais Galbraith</div>
 
-        <div>A Full-Stack Developer passionate about creating intuitive user experiences and effeicent, reusable code.</div>
+        <div className='description'>A Full-Stack Developer passionate about creating intuitive user experiences and efficient, reusable code.</div>
 
         <IconList icons={icons}/>
+        <div className='scrollIcon'>
+            <a href="#projects">
+                <IoIosArrowDown/>
+            </a>
+        </div>
     </header>
   );
 }

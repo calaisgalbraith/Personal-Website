@@ -1,6 +1,6 @@
 .hero {
-    min-height: 80vh;
-    background-color:#0a001c;
+    min-height: 100vh;
+    background: linear-gradient(180deg, #0a001c, #3b4666);
     color: white;
     text-align: center;
     flex-direction: column;
@@ -12,4 +12,48 @@
 .name {
     font-size: 6rem;
     font-weight: 200;
+}
+
+.description {
+    font-size: 1.7rem;
+    font-weight: 300;
+}
+
+header .iconList {
+    padding-top: 1rem;
+}
+
+.scrollIcon {
+    margin: auto;
+    font-size: 5rem;
+    position: absolute;
+    bottom: 0px;
+    transform: translate(-50%, 0%);
+    left: 50%;
+    opacity: .2;
+}
+
+.scrollIcon:hover {
+    opacity: .5;
+    cursor: pointer;
+}
+
+.scrollIcon a {
+    color: white !important;
+}
+
+header .icon {
+    font-size: 2.5rem;
+}
+
+header .icon a {
+    color: white;
+}
+
+
+/* Responsive Styilng */
+@media only screen and (max-width: 500px){
+    .name {
+        font-size: 4rem !important;
+    }
 }
