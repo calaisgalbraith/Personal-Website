@@ -1,0 +1,14 @@
+.projectsList {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 4.4rem 10%;
+    background-color: white;
+}
+
+#projects h2 {
+    text-align: center;
+    padding-top: 3rem;
+    font-size: 3rem;
+}

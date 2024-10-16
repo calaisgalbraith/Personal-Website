@@ -1,0 +1,26 @@
+footer {
+    background: linear-gradient(190deg, #0a001c, #3b4666);
+    color: white;
+    display: flex;
+    justify-content: right;
+}
+
+footer .icon a {
+    color: white;
+}
+
+footer .iconList{
+    padding: 5rem;
+}
+
+footer .icon {
+    padding: 1rem;
+    font-size: 3rem;
+}
+
+/* Responsive Styling */
+@media only screen and (max-width: 759px){
+    footer {
+        justify-content: center !important;
+    }
+}

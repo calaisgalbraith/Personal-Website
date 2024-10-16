@@ -1,0 +1,71 @@
+[
+    {
+        "title": "Paws Shelter Admin Dashboard",
+        "description": "An admin dashboard for an animal shelter, designed with a sleek and intuitive interface. Admins can easily access detailed information about available inventory, shelter residents, employees, volunteers, and fosters.",
+        "type": "admin",
+        "icons": [
+          {
+              "title": "Github",
+              "type": "github",
+              "url": "https://github.com/calaisgalbraith/Admin-Dashboard"
+          },
+          {
+            "title": "Neltify",
+            "type": "site",
+            "url": "https://paws-shelter.netlify.app/"
+          }
+        ]
+      },
+    {
+        "title": "Ravenous",
+        "description": "Users can view personalized restaurant recommendations based on their location and search criteria. Users can filter the results according to their preferences, including best match, highest rating, and most reviews.",
+        "type": "ravenous",
+        "icons": [
+          {
+            "title": "Github",
+            "type": "github",
+            "url": "https://github.com/calaisgalbraith/ravenous"
+          },
+          {
+            "title": "Neltify",
+            "type": "site",
+            "url": "https://calaisg-ravenous.netlify.app/"
+          }
+        ]
+    },
+    {
+      "title": "Turbo Auto Dealers",
+      "description": "A responsive custom-designed web application for a Subaru car dealership. Users can view dealership hours and locations through Mapbox and effortlessly browse and filter available inventory to find their perfect ride.",
+      "type": "turbo",
+      "icons": [
+        {
+          "title": "Github",
+          "type": "github",
+          "url": "https://github.com/calaisgalbraith/Turbo-Auto-Dealers"
+        },
+        {
+          "title": "Neltify",
+          "type": "site",
+          "url": "https://cg-subaru-crosstrek.netlify.app/"
+        }
+      ]
+    },
+    {
+      "title": "EBQ Landing Page",
+      "description": "Sample responsive landing page for EBQ",
+      "type": "ebq",
+      "icons": [
+        {
+          "title": "Github",
+          "type": "github",
+          "url": "https://github.com/calaisgalbraith/EBQ-Landing-Page"
+        },
+        {
+          "title": "Neltify",
+          "type": "site",
+            "url": "https://ebq-landing-page.netlify.app/"
+        }
+        ]
+
+    }
+]
