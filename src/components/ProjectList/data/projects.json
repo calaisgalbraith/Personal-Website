@@ -14,6 +14,20 @@
             "type": "site",
             "url": "https://paws-shelter.netlify.app/"
           }
+        ],
+        "languages": [
+          {
+            "title": "Javascript",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+          },
+          {
+            "title": "React",
+            "link": "https://react.dev/"
+          },
+          {
+            "title": "AG Grid",
+            "link": "https://www.ag-grid.com/"
+          }
         ]
       },
     {
@@ -30,6 +44,20 @@
             "title": "Neltify",
             "type": "site",
             "url": "https://calaisg-ravenous.netlify.app/"
+          }
+        ],
+        "languages": [
+          {
+            "title": "Javascript",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+          },
+          {
+            "title": "React",
+            "link": "https://react.dev/"
+          },
+          {
+            "title": "Yelp API",
+            "link": "https://docs.developer.yelp.com/reference/v3_business_search"
           }
         ]
     },
@@ -48,6 +76,24 @@
           "type": "site",
           "url": "https://cg-subaru-crosstrek.netlify.app/"
         }
+      ],
+      "languages": [
+        {
+          "title": "Javascript",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        },
+        {
+          "title":  "Mapbox API",
+          "link": "https://docs.mapbox.com/api/overview/"
+        },
+        {
+          "title": "Slim Select",
+          "link": "https://slimselectjs.com/"
+        },
+        {
+          "title": "Responsive Design",
+          "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design"
+        }
       ]
     },
     {
@@ -65,7 +111,24 @@
           "type": "site",
             "url": "https://ebq-landing-page.netlify.app/"
         }
+        ],
+        "languages": [
+          {
+            "title": "Javascript",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+          },
+          {
+            "title": "HTML",
+            "link": "https://www.w3.org/html/"
+          },
+          {
+            "title": "CSS",
+            "link": "https://www.w3schools.com/css/"
+          },
+          {
+            "title": "Responsive Design",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design"
+          }
         ]
-
     }
 ]
